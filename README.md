@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Arthur Ribeiro StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=17617591)](https://stackoverflow.com/users/17617591/arthur-ribeiro)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurfrp&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
